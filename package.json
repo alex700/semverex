@@ -1,0 +1,14 @@
+{
+  "name": "compare_versions",
+  "version": "0.1.0",
+  "description": "Compare versions tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alex Ryabov",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
