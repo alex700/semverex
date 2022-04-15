@@ -26,6 +26,10 @@ compare.max(["1.1.5", "1.0.1"]); // 1.1.5
 ## Examples and edge cases
 The library accepts extended [semver](https://semver.org/) extended with additional use cases. Please see the tests for more information.
 
+```
+npm run test
+```
+
 ## Contribution
 
 Every contribution is welcome and appreciated. **Please note:** make sure your code covered with test before contributing.
