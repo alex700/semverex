@@ -24,7 +24,7 @@ compare.max(["1.1.5", "1.0.1"]); // 1.1.5
 * [Error](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
 ## Examples and edge cases
-The library accepts extended [semver](https://semver.org/) extended with additional use cases. Please see the tests for more information.
+The library accepts [semver](https://semver.org/) extended with additional use cases. Please see the tests for more information.
 
 ```
 npm run test
